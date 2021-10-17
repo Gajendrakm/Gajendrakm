@@ -2,7 +2,7 @@
 - 👀 I’m interested in web application development
 - 🌱 I've 7 years of experience in backend development
 - 🌱 I’m currently learning REACTJS
-- 💞️ I’m looking to collaborate on Frontend development
+- 💞️
 - 📫 
 
 <!---
