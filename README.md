@@ -3,7 +3,7 @@
 - 🌱 I've 7 years of experience in backend development
 - 🌱 I’m currently learning REACTJS
 - 💞️
-- 📫 
+- 📫 you may reach me at gjendra@gmail.com
 
 <!---
 Gajendrakm/Gajendrakm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
